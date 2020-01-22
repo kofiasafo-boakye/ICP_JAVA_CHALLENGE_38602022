@@ -1,0 +1,17 @@
+ff 4 GHC40.0
+ff 4 GHC12.0
+ff 4 GHC40.0
+ff 4 GHC12.0
+ff 2 GHC2.0
+ff 4 GHC40.0
+ff 4 GHC12.0
+ff 2 GHC2.0
+dd 3 GHC4.0
+fg 4 GHC3.0
+ff 4 GHC40.0
+ff 4 GHC12.0
+ff 2 GHC2.0
+dd 3 GHC4.0
+fg 4 GHC3.0
+Water 2 GHC3.0
+Fanta 5 GHC4.0
